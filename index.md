@@ -1,4 +1,4 @@
-# Java核心技术36讲[未完待续]
+# Java核心技术36讲
 * [简介](introduce.html)
 * [开篇词 以面试题为切入点，有效提升你的Java内功](start.html.html)
 * [第1讲 谈谈你对Java平台的理解？](1.html)
