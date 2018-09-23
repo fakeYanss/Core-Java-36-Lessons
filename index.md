@@ -1,6 +1,6 @@
 # Java核心技术36讲
 * [简介](introduce.html)
-* [开篇词 以面试题为切入点，有效提升你的Java内功](start.html.html)
+* [开篇词 以面试题为切入点，有效提升你的Java内功](start.html)
 * [第1讲 谈谈你对Java平台的理解？](1.html)
 * [第2讲 Exception和Error有什么区别？](2.html)
 * [第3讲 谈谈final、finally、finalize有什么不同？](3.html)
